@@ -1,0 +1,202 @@
+
+header {
+    position: absolute;
+    margin: -.2cm 3 0 1cm;
+    width:10cm;
+    height:10cm;
+    top: 0px;
+    padding:10px;
+}
+.menu-item-dropdown {
+    
+    width:100px;
+    height: 200px;
+    text-decoration: none;
+    font-family: cool;
+    font-size: 35px;
+   position: fixed;
+   margin: .5cm 0 0 1cm;
+}
+
+.dropdown {
+    display: inline-block;
+}
+.dropdown-content {
+    display:none;
+    position: fixed;
+    margin: 0cm 1 0 1cm;
+    z-index: 1;
+background-color: none;
+background-image: none;
+}
+
+.menu-item-dropdown:hover .dropdown-content {
+    display: block;
+    width:100px;
+    height:200px;
+}
+.dropdown-item {
+    background-image: url(../images/div\ tiny.PNG);
+    width:200px;
+    height: 40px;
+    position: fixed;
+   margin: 1.7cm 0cm 0cm .1cm;
+    text-align: center;
+    border-radius: 10px; 
+}
+.dropdown-item a {
+    color:#372d42;
+    text-decoration: none;
+}
+.dropdown-item:hover, .dropdown-item:hover a {
+   color:#80748d;
+
+}
+.dropdown-item1 {
+    background-image: url(../images/div\ tiny.PNG);
+    width:200px;
+    height: 40px;
+    position: fixed;
+    margin: -.7cm 0cm 0cm .1cm;
+    text-align: center;
+    border-radius: 10px;   
+}
+.dropdown-item1 a {
+    color:#372d42;
+    text-decoration: none;
+}
+.dropdown-item1:hover, .dropdown-item1:hover a {
+    color:#80748d;
+    }
+.dropdown-item2 {
+    background-image: url(../images/div\ tiny.PNG);
+    width:130px;
+    height: 40px;
+    position: absolute;
+   margin: .5cm 0cm 0cm .1cm;
+    text-align: center;
+    border-radius: 10px;
+}
+.dropdown-item2 a {
+    color:#372d42;
+    text-decoration: none;
+}
+.dropdown-item2:hover, .dropdown-item2:hover a {
+    color:#80748d;
+    }
+
+
+
+    .digital {
+        background-image: url(../images/div\ 4.PNG);
+        width:300px;
+            height: 90px;
+            text-align: center;
+            margin: -600px 0 0 200px;
+            font-size: 80px;
+            border-radius: 10%;
+            padding: 10px;
+            letter-spacing: 2px;
+            
+    }
+    .digital:hover{
+        background-image: url(../images/screen\ bg.PNG);
+    }
+    .digital a {
+        text-decoration: none;
+        color:#70536a;
+        font-family: casual;
+        letter-spacing: 2px;
+    }
+    .digital a:hover {
+color:rgb(203, 255, 255)
+    }
+
+    .trad{
+background-image: url(../images/div\ 4.PNG);
+width:420px;
+    height: 90px;
+    text-align: center;
+    margin: 0px 0 0 950px;
+    font-size: 80px;
+    border-radius: 10%;
+    padding: 20px;
+
+    }
+    .trad:hover {
+        background-image: url(../images/background\ 4.PNG);
+    }
+    .trad a {
+        text-decoration: none;
+        color:#70536a;
+        font-family: pencil;
+    }
+    .trad a:hover{
+        color:#323233
+    }
+
+    .paint{
+        background-image: url(../images/div\ 4.PNG);
+width:340px;
+    height: 110px;
+    text-align: center;
+    margin: -400px 0 0 1000px;
+    font-size: 80px;
+    border-radius: 10%;
+    padding: 10px;
+   }
+   .paint:hover{
+    background-image: url(../images/background\ 5.PNG);
+   }
+   .paint a {
+    text-decoration: none;
+    color:#70536a;
+    font-family: paint;
+   }
+   .paint a:hover{
+    color:#63252f
+   }
+
+   .canyon{
+    display: inline-block;
+   }
+
+   .open {
+    width:1050px;
+    height:190px;
+    background-image: url(../images/div\ 6\ glow.png);
+    border-radius: 10px;
+    padding:5px;
+    text-align: center;
+   }
+   .nya {
+    width:300px;
+    height: 50px;
+    border-radius: 5px;
+    margin: -110px 0 0 10px;
+   }
+   .about{
+    background-image: url(../images/div\ 6.PNG);
+    padding: 5px;
+    width:1380px;
+    height:430px;
+    border-radius: 10px;
+   }
+
+   .ed{
+    width:1200px;
+    height:430px;
+   }
+   .blip{
+    background-image: url(../images/div\ 6.PNG);
+    width:310px;
+    height:40px;
+    border-radius: 5px;
+   }
+   .cont{
+    background-image: url(../images/div\ 1.PNG);
+    width:500px;
+    height:500px;
+    border-radius: 5px;
+    color:#6d4e66
+   }
