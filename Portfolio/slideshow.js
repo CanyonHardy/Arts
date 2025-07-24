@@ -30,7 +30,7 @@ function showSlides(n) {
 }
 
 /* Auto-slide feature */
-setInterval(() => { moveSlides(1); }, 5000); // Changes slide every 5 seconds
+//setInterval(() => { moveSlides(1); }, 5000); // Changes slide every 5 seconds
 
 
 function showSlides(n) {
