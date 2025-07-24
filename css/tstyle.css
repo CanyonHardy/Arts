@@ -42,7 +42,7 @@ background-image: none;
     border-radius: 10px; 
 }
 .dropdown-item a {
-    color:rgb(88, 63, 51);
+    color:rgb(66, 27, 9);
     letter-spacing: 5px;
     text-decoration: none;
 }
@@ -93,15 +93,15 @@ margin: 5px 0 0 0px;
     .open{
         width:900px;
         height:200px;
-        background-image: url(../images/paper\ div\ 3.PNG);
-        border-radius: 15px;
+        background-image: url(../images/photo\ background.jpg);
+        border-radius: 30px;
         
         
     }
     .open h1{
         font-size: 80px;
         letter-spacing: 10px;
-        color: rgb(54, 51, 46);
+        color: rgb(155, 109, 92);
         font-weight:bold;
     }
 
